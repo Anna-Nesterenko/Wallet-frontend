@@ -9,18 +9,6 @@
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
 [license-url]: https://github.com/AndriiPichkorkiy/Wallet-fronend/blob/main/LICENSE.txt
 
-## About The Project
-
-Our team developed the Wallet app. <br/>
-We have implemented user authentication, email verification, saving the current user.  <br/>
-In the user's cabinet we developed saving of income and expenses, displaying the current balance,  <br/>
-and providing analysis of expenditure statistics by months and years. <br/>
-The saving of all transaction data to the database has been implemented.
-
-[![Product Name Screen Shot][product-screenshot]](https://luxury-klepon-24ab7b.netlify.app/login)
-
-[product-screenshot]: public/imgs/add.jpg
-
 ### Built With
  [![Netlify][Netlify]][Netlify-url]
  [![Render][Render]][Render-url]
@@ -41,5 +29,19 @@ The saving of all transaction data to the database has been implemented.
 [React-url]: https://reactjs.org/
 [Mui]: https://img.shields.io/badge/Mui-35495E?style=for-the-badge&logo=mui&logoColor=007FFF
 [Mui-url]:  https://mui.com/
+
+## About The Project
+
+Our team developed the Wallet app. <br/>
+We have implemented user authentication, email verification, saving the current user.  <br/>
+In the user's cabinet we developed saving of income and expenses, displaying the current balance,  <br/>
+and providing analysis of expenditure statistics by months and years. <br/>
+The saving of all transaction data to the database has been implemented.
+
+[![Product Name Screen Shot][product-screenshot]](https://luxury-klepon-24ab7b.netlify.app/login)
+
+[product-screenshot]: public/imgs/add.jpg
+
+
 
 
