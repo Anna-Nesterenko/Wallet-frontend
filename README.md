@@ -9,7 +9,7 @@
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
 [license-url]: https://github.com/AndriiPichkorkiy/Wallet-fronend/blob/main/LICENSE.txt
 
-### Built With
+## Built With
  [![Netlify][Netlify]][Netlify-url]
  [![Render][Render]][Render-url]
  [![NodeJS][Node.JS]][Node-url]
